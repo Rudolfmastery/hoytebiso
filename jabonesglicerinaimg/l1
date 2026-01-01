@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Landing Page</title>
+  <style>
+    /* Reset básico para eliminar espacios */
+    body, html { margin: 0; padding: 0; background-color: #000; }
+    
+    .landing-container {
+      max-width: 800px; /* Ancho máximo estándar para evitar que las imágenes se estiren demasiado */
+      margin: 0 auto;
+      background-color: #fff;
+    }
+    
+    .image-slice {
+      display: block;
+      width: 100%;
+      height: auto;
+      border: 0;
+      margin: 0;
+      padding: 0;
+      vertical-align: bottom; /* Crucial para eliminar espacio extra debajo de las imágenes */
+    }
+  </style>
+</head>
+<body>
+
+  <div class="landing-container">
+    <!-- Sección: Sección de landing page 1 -->
+    <img 
+      src="https://cdn.jsdelivr.net/gh/Rudolfmastery/hoytebiso@main/jabonesglicerinaimg/01.webp" 
+      alt="Sección de landing page 1" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 2 -->
+    <img 
+      src="https://cdn.jsdelivr.net/gh/Rudolfmastery/hoytebiso@main/jabonesglicerinaimg/02.webp" 
+      alt="Sección de landing page 2" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 3 -->
+    <img 
+      src="https://picsum.photos/800/400?random=2" 
+      alt="Sección de landing page 3" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 4 -->
+    <img 
+      src="https://picsum.photos/800/400?random=3" 
+      alt="Sección de landing page 4" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 5 -->
+    <img 
+      src="https://picsum.photos/800/400?random=4" 
+      alt="Sección de landing page 5" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 6 -->
+    <img 
+      src="https://picsum.photos/800/400?random=5" 
+      alt="Sección de landing page 6" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 7 -->
+    <img 
+      src="https://picsum.photos/800/400?random=6" 
+      alt="Sección de landing page 7" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 8 -->
+    <img 
+      src="https://picsum.photos/800/400?random=7" 
+      alt="Sección de landing page 8" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 9 -->
+    <img 
+      src="https://picsum.photos/800/400?random=8" 
+      alt="Sección de landing page 9" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 10 -->
+    <img 
+      src="https://picsum.photos/800/400?random=9" 
+      alt="Sección de landing page 10" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 11 -->
+    <img 
+      src="https://picsum.photos/800/400?random=10" 
+      alt="Sección de landing page 11" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 12 -->
+    <img 
+      src="https://picsum.photos/800/400?random=11" 
+      alt="Sección de landing page 12" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 13 -->
+    <img 
+      src="https://picsum.photos/800/400?random=12" 
+      alt="Sección de landing page 13" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 14 -->
+    <img 
+      src="https://picsum.photos/800/400?random=13" 
+      alt="Sección de landing page 14" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 15 -->
+    <img 
+      src="https://picsum.photos/800/400?random=14" 
+      alt="Sección de landing page 15" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 16 -->
+    <img 
+      src="https://picsum.photos/800/400?random=15" 
+      alt="Sección de landing page 16" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 17 -->
+    <img 
+      src="https://picsum.photos/800/400?random=16" 
+      alt="Sección de landing page 17" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 18 -->
+    <img 
+      src="https://picsum.photos/800/400?random=17" 
+      alt="Sección de landing page 18" 
+      class="image-slice" 
+      loading="lazy"
+    />
+    <!-- Sección: Sección de landing page 19 -->
+    <img 
+      src="https://picsum.photos/800/400?random=18" 
+      alt="Sección de landing page 19" 
+      class="image-slice" 
+      loading="lazy"
+    />
+  </div>
+
+</body>
+</html>
